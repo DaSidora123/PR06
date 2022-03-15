@@ -1,0 +1,10 @@
+C:\Temp\PCS-81\2 семетр\PR06\PR06\bin\Debug\PR06.exe.config
+C:\Temp\PCS-81\2 семетр\PR06\PR06\bin\Debug\PR06.exe
+C:\Temp\PCS-81\2 семетр\PR06\PR06\bin\Debug\PR06.pdb
+C:\Temp\PCS-81\2 семетр\PR06\PR06\obj\Debug\PR06.csprojResolveAssemblyReference.cache
+C:\Temp\PCS-81\2 семетр\PR06\PR06\obj\Debug\PR06.Properties.Resources.resources
+C:\Temp\PCS-81\2 семетр\PR06\PR06\obj\Debug\PR06.csproj.GenerateResource.Cache
+C:\Temp\PCS-81\2 семетр\PR06\PR06\obj\Debug\PR06.exe
+C:\Temp\PCS-81\2 семетр\PR06\PR06\obj\Debug\PR06.pdb
+C:\Temp\PCS-81\2 семетр\PR06\PR06\obj\Debug\PR06.Form1.resources
+C:\Temp\PCS-81\2 семетр\PR06\PR06\obj\Debug\PR06.MainForm.resources
